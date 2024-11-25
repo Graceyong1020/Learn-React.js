@@ -2,3 +2,7 @@
 //원시타입 : number, string, boolean, null, undefined, symbol 등 값 자체로써 변수에 저장되고 복사, 불변값
 //객체타입 : object, array, function 등 참조값을 통해 변수에 저장되고 복사
 
+//DataType  
+//1. 원시타입: number, string, boolean, null, undefined
+//2. 객체타입 : object -> Array, Function, RagexExp
+// => 배열과 함수도 객체타입에 속함
